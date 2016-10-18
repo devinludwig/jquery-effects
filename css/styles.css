@@ -1,0 +1,27 @@
+.big {
+  display: none;
+  font-size: 60px;
+}
+
+.clickable, .link{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .link:hover{
+  text-decoration: underline;
+}
+
+.small {
+  font-size: 20px;
+}
+
+.showcastle {
+  display: none;
+  width: 100%;
+}
+
+
+.after {
+  display:none;
+}
